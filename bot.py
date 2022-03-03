@@ -24,4 +24,4 @@ async def on_message(message):
     if message.content == "I love you more" or message.content == "i love you more":
         await message.channel.send("thats a lie!")
 
-client.run("OTQ5MDIyNTEzMjk4NTQ2Njg4.YiEUFw.ziI432nGoHaNE4wpzPxpLdkbJ8U")
+client.run("TOKEN")
